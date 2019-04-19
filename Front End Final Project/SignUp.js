@@ -8,7 +8,7 @@
     var phoneNo=document.getElementById("phone");
     var birthDate=document.getElementById("birthD");
 
-
+//aaaaaaaaa
     
 //FOR THE ERROR MESSAGES
     var messageFName=document.getElementById("errorFname");
